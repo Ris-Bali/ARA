@@ -5,17 +5,27 @@ In this project, we create and implement a deep learning library from scratch.
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Aim](#Aim)
-  * [Tech Stack](#tech-stack)
-  * [File Structure](#file-structure)
-* [Approach](#Approach)
-* [Theory](#Theory)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Results and Demo](#Results)
+- [Deep Leaning Library](#deep-leaning-library)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+    - [Aim](#aim)
+    - [Tech Stack](#tech-stack)
+    - [File Structure](#file-structure)
+  - [Approach](#approach)
+  - [Theory](#theory)
+      - [Loss Function:](#loss-function)
+      - [Cost Function :](#cost-function-)
+      - [Gradient Descent : -](#gradient-descent---)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+  - [Results](#results)
+    - [Result](#result)
+  - [Future Work](#future-work)
+  - [Troubleshooting](#troubleshooting)
+  - [Contributors](#contributors)
+  - [Acknowledgements](#acknowledgements)
+  - [Resources](#resources)
+  - [License](#license)
   *[Results](#Result)
   *[Demo Video](#Demo)
 * [Future Work](#future-work)
@@ -41,16 +51,26 @@ This project, which is creating a Deep Learning Library from scratch, can be fur
 >* Google Colab
 
 ### File Structure
-    .
-    ├── main.py                  # The code written for the task
-    ├── notes                    # Folder for the notes for Deep Learning
-    ├── report.pdf          # Project report
-    └── results             # Folder containing screenshots of output obtained
-    ├── UML                     # Contains the uml diagram for the code
-    ├── LICENSE
-    ├── README.md 
-    ├── Setup.md                # If Installation instructions are lengthy
-    └── todo.md                 # If Future developments and current status gets lengthy
+
+```
+.
+├── code
+|   └── main.py                                   #contains the main code for the library
+├── resources                                     #Notes 
+|   ├── ImprovingDeepNeuralNetworks
+|   |   ├── images
+|   |   |   ├── BatchvsMiniBatch.png
+|   |   |   ├── Bias.png
+|   |   |   └── EWG.png
+|   |   └── notes.md
+|   ├── Course1.md                               
+|   ├── accuracy.jpg
+|   ├── error.jpg
+|   └── grad_des_graph.jpg
+├── LICENSE.txt
+├── ProjectReport.pdf                            #Project Report
+└── README.md                                    #Readme
+```
     
 ## Approach
 >The approach of the project is to basically create a deep learning library, as stated before. The aim of the project was to implement various deep learning algorithms, in order to drive a deep neural network and hence,create a deep learning library, which is modular,and driven on user input so that it can be applied for various deep learning processes, and to train and test it against a model.
