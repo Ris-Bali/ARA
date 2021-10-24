@@ -1,4 +1,4 @@
-# Deep Leaning Library  
+# ARA
 In this project, we create and implement a deep learning library from scratch. 
 
 
