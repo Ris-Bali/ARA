@@ -16,6 +16,8 @@ In this project, we create and implement a deep learning library from scratch.
   * [Installation](#installation)
 * [Usage](#usage)
 * [Results and Demo](#Results)
+  *[Results](#Result)
+  *[Demo Video](#Demo)
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
 * [Contributors](#contributors)
@@ -120,11 +122,16 @@ Deep learning library is used train the models more easily.
 
 <!-- RESULTS AND DEMO -->
 ## Results 
+
+### Result
 Results obtained during training:
 ![error](/resources/error.jpg)
 (where Y-axis represents the value of the cost function and X axis represents the number of iterations)
 ![accuracy](/resources/accuracy.jpg)
 (where Y-axis represents the accuracy of the prediction wrt the labels and X-axis represents the number of iterations)
+
+
+### Demo
 
 
 <!-- FUTURE WORK -->
