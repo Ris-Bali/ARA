@@ -129,11 +129,6 @@ Results obtained during training:
 (where Y-axis represents the value of the cost function and X axis represents the number of iterations)
 ![accuracy](/resources/accuracy.jpg)
 (where Y-axis represents the accuracy of the prediction wrt the labels and X-axis represents the number of iterations)
-
-
-### Demo
-
-
 <!-- FUTURE WORK -->
 ## Future Work
 
