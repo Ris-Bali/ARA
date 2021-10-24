@@ -51,6 +51,8 @@ This project, which is creating a Deep Learning Library from scratch, can be fur
 >* Google Colab
 
 ### File Structure
+
+```
 .
 ├── code
 |   └── main.py                                   #contains the main code for the library
@@ -68,6 +70,7 @@ This project, which is creating a Deep Learning Library from scratch, can be fur
 ├── LICENSE.txt
 ├── ProjectReport.pdf                            #Project Report
 └── README.md                                    #Readme
+```
     
 ## Approach
 >The approach of the project is to basically create a deep learning library, as stated before. The aim of the project was to implement various deep learning algorithms, in order to drive a deep neural network and hence,create a deep learning library, which is modular,and driven on user input so that it can be applied for various deep learning processes, and to train and test it against a model.
