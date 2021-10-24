@@ -129,7 +129,7 @@ Results obtained during training:
 
 <!-- FUTURE WORK -->
 ## Future Work
-```
+
 * Short term
   * Adding class for normalization and regularization
 * Near Future
@@ -139,7 +139,7 @@ Results obtained during training:
   * Addition of algorithms to support CNN models. 
   * Addition of more Machine Learning algorithms
   * Include algorithms to facilitate Image Recognition, Machine Translation and Natural Language Processing
-```
+
 
 <!-- TROUBLESHOOTING -->
 ## Troubleshooting
