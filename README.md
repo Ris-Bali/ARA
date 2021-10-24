@@ -171,7 +171,7 @@ Results obtained during training:
 * [Basics of Implementing Deep Learning Libraries](https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8)
 * [Deep Learning](https://www.ibm.com/cloud/learn/deep-learning)
 * [Deep Learning Libraries](https://www.sabinasz.net/deep-learning-from-scratch-theory-and-implementation/) 
-* Iris Dataset
+* [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
 
 
 
