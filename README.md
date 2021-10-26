@@ -1,4 +1,13 @@
-# ARA
+
+
+
+
+![ARA1](https://user-images.githubusercontent.com/81592570/138918665-6ee14308-02c4-4b31-8ad8-5995d13efb24.jpeg)
+
+
+
+
+
 In this project, we create and implement a deep learning library from scratch. 
 
 
