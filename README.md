@@ -142,6 +142,33 @@ Deep learning library is used train the models more easily.
 
 <!-- RESULTS AND DEMO -->
 ## Results 
+### Demo
+We trained a model on the iris dataset using ARA here's the video for the same -
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/81592570/138912576-09e83307-dcd7-4bf4-b8ba-442a26fb1ae9.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+As you may have observed we achieved an accuracy of nearly 100% while training the model.
 
 ### Result
 Results obtained during training:
