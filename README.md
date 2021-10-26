@@ -108,6 +108,7 @@ With the same amount of data used for training, the performance of the Neural Ne
 >Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function. 
 
 
+![Descent](https://user-images.githubusercontent.com/81592570/138923045-adad5dab-2207-4a7b-b24f-0bc3e6270c77.gif)
 
 
 
