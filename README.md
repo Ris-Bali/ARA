@@ -138,7 +138,7 @@ pip install numpy
 ### Installation
 1. Clone the repo
 ```sh
-git clone git@github.com:aayushmehta123/sra_eklavya_deeplearning_library.git
+git clone git@github.com:https://github.com/Ris-Bali/ARA.git
 ```
 
 
