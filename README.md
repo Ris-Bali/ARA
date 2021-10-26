@@ -151,7 +151,7 @@ Deep learning library is used train the models more easily.
 
 <!-- RESULTS AND DEMO -->
 ## Results 
-### Demo
+### Training
 We trained a model on the iris dataset using ARA here's the video for the same -
 
 
