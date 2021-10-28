@@ -214,7 +214,7 @@ Results obtained during training:
 
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Acknowledgements
-* [SRA VJTI](http://sra.vjti.info/) Eklavya 2021  
+* [SRA VJTI](https://sravjti.in/)
 * Mentors: 
   * [Kush Kothari](https://github.com/kkothari2001) 
   * [Aman Chhaparia](https://github.com/amanchhaparia)
