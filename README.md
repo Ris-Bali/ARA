@@ -33,15 +33,13 @@ In this project, we create and implement a deep learning library from scratch.
   - [Troubleshooting](#troubleshooting)
   - [Contributors](#contributors)
   - [Acknowledgements](#acknowledgements)
-  - [Resources](#resources)
   - [License](#license)
-  *[Results](#Result)
-  *[Demo Video](#Demo)
+*[Results](#Result)
+*[Demo Video](#Demo)
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
 * [Contributors](#contributors)
 * [Acknowledgements](#acknowledgements)
-* [Resources](#resources)
 * [License](#license)
 
 
@@ -212,25 +210,12 @@ Results obtained during training:
 * [Aayush Mehta](https://github.com/aayushmehta123)
 
 
-<!-- ACKNOWLEDGEMENTS AND REFERENCES -->
+<!-- ACKNOWLEDGEMENTS  -->
 ## Acknowledgements
 * [SRA VJTI](https://sravjti.in/)
 * Mentors: 
   * [Kush Kothari](https://github.com/kkothari2001) 
   * [Aman Chhaparia](https://github.com/amanchhaparia)
-
-## Resources
-* [Coursera course by Andrew NG on Deep Learning and Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
-* [Coursera course by Andrew NG on Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-* [On Gradient Descent Optimization](https://ruder.io/optimizing-gradient-descent/)
-* [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [Basics of Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-* [Basics of Implementing Deep Learning Libraries](https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8)
-* [Deep Learning](https://www.ibm.com/cloud/learn/deep-learning)
-* [Deep Learning Libraries](https://www.sabinasz.net/deep-learning-from-scratch-theory-and-implementation/) 
-* [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
-
-
 
 <!-- LICENSE -->
 ## License
