@@ -14,7 +14,7 @@ Lets get a bit formal while defining deep learning - Deep learning is a subset o
 It's basically a type of machine learning that trains a computer to perform human-like tasks, such as recognizing speech, identifying images or making predictions. So deep learning is subset of machine learning in which we train neural network (the computer program) over many layers using equations with parameters which are updated after every iteration which makes these networks to be very good at recognizing patterns . In the era of big data where we literally have infinite amount of data deep learning is blooming as its accuracy of making predictions increases with the amount of data . These deep Neural nets are used to perform various human tasks with human level accuracy or higher .Like detecting a Tumor with the help of intelligence . 
 Deep Learning has distinct advantages over traditional ML algorithms . AS it gives more accurate results . 
 
-![img]("https://github.com/Ris-Bali/ARA/blob/main/assets/1.jpg")
+![img](/assets/1.jpg")
 ___
 ### What is a deep learning library and the reason why we chose this project ?
 
