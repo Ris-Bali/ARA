@@ -1,11 +1,11 @@
-# Eklavya : Deep Learning Library from Scratch
+# ARA :A Deep Learning Library from scratch 
 ___
 ## Introduction
 ___
 
 Eklavya is a program conducted by the [Society of Robotics and Automation, VJTI](https://github.com/SRA-VJTI) in which freshmen study and execute various projects amongst various fields in ML, Embedded Systems, amongst various others under the guidance of their seniors as their mentors.
 
-The Project that was completed by our team ([Rishabh Bali](https://github.com/Ris-Bali), [Aayush Mehta](https://github.com/AayushM8) and [Aditya Mhatre](https://github.com/Adi935)) , was understanding and making a **Deep Learning Library**, from scratch. We learnt about various aspects and basic concepts of Deep Learning.
+The Project that was completed by our team ([Rishabh Bali](https://github.com/Ris-Bali), [Aayush Mehta](https://github.com/AayushM8) and [Aditya Mhatre](https://github.com/Adi935)) , was understanding and making a **Deep Learning Library**, from scratch. We learnt about various aspects and basic concepts of Deep Learning. You can check out the repository fore the [project](https://github.com/Ris-Bali/ARA) . The following is a blog for the project written by Rishabh.  
 
 ___
 
@@ -17,13 +17,13 @@ Deep Learning has distinct advantages over traditional ML algorithms . AS it giv
 
 ![/assets/1.jpg](https://github.com/Ris-Bali/ARA/blob/main/assets/1.jpg?raw=true)
 ___
-### What is a deep learning library and the reason why we chose this project ?
+### What is a deep learning library and the reason why I chose this project ?
 
 A library is defined as a collection of pre-defined functions and modules that you can call through your program .These Libraries are primarily open source and are maintained by large communities. Deep Learning is a subset of Machine Learning in which we build Multi Layer Neural Networks (consider this as a tree) which progressively extracts higher level features from data. More informally we try to build a mathematical function to map the inputs to the outputs.
 
 There are primarily two main layers the input layer and the output layer and the hidden layers are kinda sandwiched between the two every layer except for the input layer may or may not have an activation function. Building these layers require a lot of code; consider this most of the industry standard neural networks have a at least 8 to 20 layers. Oh, and also every layer has nodes, and every node has its set of parameters so this leads a very complex structure which is very difficult to code. Deep Learning libraries automate this process and save a ton of time and drastically reduces the time required to build a deep net.
 
-In the case of deep learning there are many libraries that make the process of coding deep neural nets easier. Most notable are Tensorflow (By Google) and Pytorch (By Facebook) while newer libraries like fast.ai ‘ deep learning library are gaining traction. When I got selected in Eklavya which is SRA(Society of Robotics and Automation)’s mentorship program where seniors mentor us while we build our projects. I was confused between two projects Deep Learning Library and RL agents I chose the former after consulting with a senior as this would allow me to get my hands dirty. I would get to implement all the algorithms from scratch; this is beneficial if you want to get into research. As you would see in the latter part of the article most of the frameworks (which a fancy term for a Deep Learning Library with readymade implementation of the forward propagation and backward propagation part. The Forward propagation part is easy enough to understand but the backward propagation is the part which involves a lot of calculus. Deep Learning is not only used by people from engineering background but by Medical practitioners, financial planners and so on who don't have any formal background in Maths (at least the calculus part). It is possible to build models without bothering to know the back propagation part. I thought it would be fun to know what happens behind the scenes so I chose this project. Teams were formed, and I got grouped with two other members. 
+In the case of deep learning there are many libraries that make the process of coding deep neural nets easier. Most notable are Tensorflow (By Google) and Pytorch (By Facebook) while newer libraries like fast.ai ‘ deep learning library are gaining traction. When I got selected in Eklavya which is SRA(Society of Robotics and Automation)’s mentorship program where seniors mentor us while we build our projects. I was confused between two projects Deep Learning Library and RL agents I chose the former after consulting with a senior as this would allow me to get my hands dirty. I would get to implement all the algorithms from scratch; this is beneficial if you want to get into research. As you would see in the latter part of the article most of the frameworks (which a fancy term for a Deep Learning Library with readymade implementation of the forward propagation and backward propagation part. The Forward propagation part is easy enough to understand but the backward propagation is the part which involves a lot of calculus. Deep Learning is not only used by people from engineering background but by Medical practitioners, financial planners and so on who don't have any formal background in Maths (at least the calculus part). It is possible to build models without bothering to know the back propagation part. I thought it would be fun to know what happens behind the scenes so I chose this project. Teams were formed, and I got grouped with two other members;[Aayush Mehta](https://github.com/AayushM8) and [Aditya Mhatre](https://github.com/Adi935)
 
 ___
 ### The Language problem:
@@ -85,5 +85,6 @@ ___
 The library is in no way complete the project has no end to it currently the library can perform only binary and multiclass classification using the SGD algorithm we need to add the Adam Optimization, and the RMS prop algorithms which couldn't be added because of time constraints.We even need to add the regularizers which prevent the model from over fitting the training set and allows the model to generalize to give highly accurate predictions on the test set. We need to add the algorithms used in Computer Vision and sequence models.
 
 So it will surely be an exciting journey ahead.
+## Author - [Rishabh Bali](https://github.com/Ris-Bali)
 
 
