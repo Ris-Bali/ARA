@@ -5,7 +5,7 @@ ___
 
 Eklavya is a program conducted by the [Society of Robotics and Automation, VJTI](https://github.com/SRA-VJTI) in which freshmen study and execute various projects amongst various fields in ML, Embedded Systems, amongst various others under the guidance of their seniors as their mentors.
 
-The Project that was completed by our team ([Rishabh Bali](https://github.com/Ris-Bali), [Aayush Mehta](https://github.com/AayushM8) and [Aditya Mhatre](https://github.com/Adi935)) , was understanding and making a **Deep Learning Library**, from scratch. We learnt about various aspects and basic concepts of Deep Learning. You can check out the repository fore the [project](https://github.com/Ris-Bali/ARA) . The following is a blog for the project written by Rishabh.  
+The Project that was completed by our team ([Rishabh Bali](https://github.com/Ris-Bali), [Aayush Mehta](https://github.com/AayushM8) and [Aditya Mhatre](https://github.com/Adi935)) , was understanding and making a **Deep Learning Library**, from scratch. We learnt about various aspects and basic concepts of Deep Learning. You can check out the repository fore the [project](https://github.com/Ris-Bali/ARA) . The following is a blog for the project.
 
 ___
 
