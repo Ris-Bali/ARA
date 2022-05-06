@@ -184,18 +184,7 @@ Results obtained during training:
 (where Y-axis represents the value of the cost function and X axis represents the number of iterations)
 ![accuracy](/resources/accuracy.jpg)
 (where Y-axis represents the accuracy of the prediction wrt the labels and X-axis represents the number of iterations)
-<!-- FUTURE WORK -->
-## Future Work
 
-* Short term
-  * Adding class for normalization and regularization
-* Near Future
-  * Addition of support for linear regression
-  * Addition of classes for LSTM and GRU blocks
-* Future goal
-  * Addition of algorithms to support CNN models. 
-  * Addition of more Machine Learning algorithms
-  * Include algorithms to facilitate Image Recognition, Machine Translation and Natural Language Processing
 
 
 <!-- TROUBLESHOOTING -->
